@@ -38,6 +38,7 @@ ssh math@140.116.90.212
 更新全部檔案(要先進到該資料夾         git add -A
 為該動作(該add)命名                   git commit -m "命名"
 將add和commit推上github               git push
+強制上傳                              git push -f
 執行.m檔                              octave *.m
 
 octave裡指令  mesh(矩陣)  (可畫圖)
