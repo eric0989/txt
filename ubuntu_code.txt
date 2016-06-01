@@ -19,8 +19,11 @@
 遠端                                  ssh
 ssh -X -l mathgrad 140.116.21.13      -X 把結果傳送回來
 (pw:math65156)
+
 ssh math@140.116.90.212
 (pw:math65100)
+
+My IP : 223.138.254.204 (User name : 0989108287)
 
 刪除                                  rm *
 刪除目錄                              rm -r *
