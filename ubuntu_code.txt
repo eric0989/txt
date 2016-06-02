@@ -50,3 +50,6 @@ octave裡指令  mesh(矩陣)  (可畫圖)
 學長git帳號                           搜尋xflying777 -> users
 
 (若用不同電腦連結可能出錯)            git push --set-upstream origin master
+
+gpc++ -acc -ta=tesla -Minfo *.cpp -o *.out
+(tesla是核心名稱  可改打nvidia 自動找 -Minfo 代表印出平行過程)
